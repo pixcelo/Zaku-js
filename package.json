@@ -1,0 +1,25 @@
+{
+  "name": "zaku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixcelo/Zaku-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixcelo/Zaku-js/issues"
+  },
+  "homepage": "https://github.com/pixcelo/Zaku-js#readme",
+  "dependencies": {
+    "ccxt": "^2.0.73",
+    "config": "^3.3.8"
+  }
+}
