@@ -20,6 +20,7 @@
   "homepage": "https://github.com/pixcelo/Zaku-js#readme",
   "dependencies": {
     "ccxt": "^2.0.73",
-    "config": "^3.3.8"
+    "config": "^3.3.8",
+    "node-fetch": "^3.2.10"
   }
 }
