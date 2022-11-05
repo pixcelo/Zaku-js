@@ -136,3 +136,6 @@ dist
 
 # config
 config
+
+# redis dump file
+*.rdb
